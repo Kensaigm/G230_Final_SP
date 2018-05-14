@@ -16,6 +16,7 @@ Steam\ Punk\ Final\ G230/Assets/Standard\ Assets/*
 Steam\ Punk\ Final\ G230/Assets/Editor/*
 Steam\ Punk\ Final\ G230/Assets/Surfaces\ Beta\ 0.4/*
 Steam\ Punk\ Final\ G230/Assets/MeshMaker/*
+!Steam\ Punk\ Final\ G230/Assets/*.[0o]bj
 
 # Visual Studio 2015 cache directory
 Steam\ Punk\ Final\ G230/.vs/
