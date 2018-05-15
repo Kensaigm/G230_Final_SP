@@ -4,8 +4,11 @@ Digital Arts G230 Final Project Steam Punk
 Requires Unity 64 bit, 2017.3.0f3
 
 Developer Build:
+Used the following assets from the Unity Asset Store:
 Requires UNITY TECHNOLOGIES "ProBuilder", UNITY TECHNOLOGIES "ProGrids",
 AARO4130 "Scene OBJ Exporter"* from the Unity Asset Store.
+Used the following assets from 3rd party sites:
+Colosseum 3d Model (https://free3d.com/3d-model/colosseum-37887.html)
 
 Tester Build:
 Requires TERRAMORPH WORKSHOP "Natural Tiling Textures", 
@@ -17,6 +20,9 @@ For more information about the Unity Asset Store see: https://assetstore.unity.c
 
 Connect with me if you have any questions:
 https://connect.unity.com/u/581a1ac032b306001b43e432
+
+
+
 
 
 
